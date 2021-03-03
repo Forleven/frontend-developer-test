@@ -5,11 +5,11 @@ Desenvolva um Front-end utilizando React.js e a API de testes https://jsonplaceh
 - Fazer uma requisição de **GET** exibindo uma requisição de **todos/1**
 - Fazer uma requisição de **GET** exibindo uma lista de ao menos 20 objetos do endpoint **/posts**
 - Fazer um formulário contendo as informações necessárias para fazer uma requisição **POST** 
-{
+`{
     userId: 1,
     title: 'title ex',
     body: 'body ex',
-}
+}`
 - Fazer requisição de **PUT** para alterar um objeto da listagem de **posts**
 
 Crie um repositório **público** no github em uma conta pessoal sua e nos envie o link como resposta ao seu teste.
